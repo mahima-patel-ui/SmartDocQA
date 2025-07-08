@@ -1,0 +1,11 @@
+
+streamlit
+PyMuPDF
+openai
+langchain
+tiktoken
+numpy
+pandas
+
+
+sentence-transformers
